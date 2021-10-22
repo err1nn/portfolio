@@ -1,4 +1,4 @@
-Hi!👋 This is Erin's portfolio for 94-870 Telling Stories with Data at CMU Heinz College! 🐕‍🦺
+Hi! 👋 This is Erin's portfolio for 94-870 Telling Stories with Data at CMU Heinz College! 🐕‍🦺
 
 ## About Me
 Erin is a second-year MS Public Policy and Management student at Carnegie Mellon University, Heinz College of Information Systems and Public Policy. She has a bachelor’s degree in Political Science. Prior to graduate studies, she had experience in Product Management at a global leading streaming service.
