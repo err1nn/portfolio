@@ -10,11 +10,8 @@ Her passion for solving problems that live at the nexus of people, policy, and t
 ## What I Hope to Learn
 With the coding ability in buckets, I hope to learn a more deisgn-oriented perspective to data visualization that I can add another level on my work. I look forward to being a data enthusiast who can understand clients' data visualization needs and leverage the design mindset to develop creative, informational visualizations.
 
-First try for in-class practice.
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642614"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## Assignments
-Here's where my cool visualization work will go. Please keep an eye on it!
+- [Data Visualization: OECD Gerneral Government Debt](https://err1nn.github.io/portfolio/dataviz1)
 
 ## Final Project
 Here's where my cool visualization work will go. Please keep an eye on it!
