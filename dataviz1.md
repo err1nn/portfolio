@@ -16,6 +16,10 @@ The grid of line charts let us visualize the Debt-to-GDP ratio across a number o
 
 ## III. OECD Government Debt:
 
+In this part, we were asked to create a new data visualization using the same data as in the previous one. I chose to use a bubble map as a redesign. A bubble map uses circles of different size to display a numeric value per geographic coordinate. It is nice to use when you have a list of geographic coordinates (i.e., latitude and longitude) and a numeric varaible that can be represented by the bubble size.
+
+To let the data fit into a bubble map format, I pre-processed the data in Excel by averaging the debt-to-GDP ratio over time for each country. Therefore, we would have a single numerial value, an average debt-to-GDP ratio, for each country. The intention of the redesign is to demonstrate the debt-to-GDP ratio worldwide geographically, allowing the audience to match the context with the bubble size without creating a long pause. The interactive plot also allows audience to select a bubble or region, zoom in, and search for more detailed information.
+
 <div class="flourish-embed flourish-map" data-src="visualisation/7692104"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### References
