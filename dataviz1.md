@@ -8,13 +8,13 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 (Source: [OECD Data: General government debt](https://data.oecd.org/gga/general-government-debt.htm))
 
-## II. OECD Government Debt: The Debt-to-GDP Ratio
+## II. OECD Government Debt: Using Grid of Line Charts
 
-The grid of line charts let us visualize the Debt-to-GDP ratio across a number of countries and years. This method is akin to [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR), which we can easily present the data that need to move within complex multivariate spaces.
+The grid of line charts allows us to visualize the Debt-to-GDP ratio across a number of countries and years. This method is akin to [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR), which we can easily present the data that need to move within complex multivariate spaces.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7691541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## III. OECD Government Debt:
+## III. OECD Government Debt: Using Bubble Map Chart
 
 In this part, we were asked to create a new data visualization using the same data as in the previous one. I chose to use a bubble map as a redesign. A bubble map uses circles of different size to display a numeric value per geographic coordinate. It is nice to use when you have a list of geographic coordinates (i.e., latitude and longitude) and a numeric varaible that can be represented by the bubble size.
 
