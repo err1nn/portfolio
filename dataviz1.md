@@ -7,3 +7,12 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 <iframe src="https://data.oecd.org/chart/6vtc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vtc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ## Part 2: OECD Goverment Debt - The Debt-to-GDP Ratio
+
+The grid of line charts let us visualize the Debt-to-GDP ratio across a number of countries and years. This method is akin to [sparklines](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR), which we can easily present the data that need to move within complex multivariate spaces.
+
+## Part 3: 
+
+
+### References
+1. Berinato, S. (2019). Good charts workbook: tips, tools, and exercises for making better data visualizations. Chapter 1: Controlling Color. Boston, MA: Harvard Business Review Press.
+2. Berinato, S. (2019). Good charts workbook: tips, tools, and exercises for making better data visualizations. Chapter 2: Crafting for Clarity. Boston, MA: Harvard Business Review Press.
