@@ -16,7 +16,7 @@ The grid of line charts let us visualize the Debt-to-GDP ratio across a number o
 
 ## III. OECD Government Debt:
 
-
+<div class="flourish-embed flourish-map" data-src="visualisation/7692104"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### References
 1. Berinato, S. (2019). Good charts workbook: tips, tools, and exercises for making better data visualizations. Chapter 1: Controlling Color. Boston, MA: Harvard Business Review Press.
