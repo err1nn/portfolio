@@ -33,4 +33,4 @@ Overall, I like both graphs since they do not have clutter or redundancy that ha
 
 The hightlight table built by Tableau compares the debt-to-GDP ratio using color.
 
-https://prod-useast-b.online.tableau.com/t/erinsvisualizationwork/views/OECD_Debt/OECDGovernmentDebt?:origin=card_share_link&:embed=n
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 710px;'><object class='tableauViz' width='1440' height='710' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;erinsvisualizationwork' /><param name='name' value='OECD_Debt&#47;OECDGovernmentDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
