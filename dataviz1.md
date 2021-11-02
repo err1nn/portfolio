@@ -33,5 +33,4 @@ Overall, I like both graphs since they do not have clutter or redundancy that ha
 
 The hightlight table built by Tableau compares the debt-to-GDP ratio using color.
 
-<iframe src="https://public.tableau.com/views/Visualization1_16358862232590/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
- width="645" height="955"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Visualization1_16358862232590/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
