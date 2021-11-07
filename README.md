@@ -12,7 +12,7 @@ With the coding ability in buckets, I hope to learn a more deisgn-oriented persp
 
 ## Assignments
 - [Data Visualization: OECD Gerneral Government Debt](https://err1nn.github.io/portfolio/dataviz1)
-- [Critique By Design: F1 United States Grand Prix 2021](https://err1nn.github.io/portfolio/critiquebydesign)
+- [Critique By Design: F1 United States Grand Prix 2021 Race Lap Chart](https://err1nn.github.io/portfolio/critiquebydesign)
 
 ## Final Project
 Here's where my cool visualization work will go. Please keep an eye on it!
