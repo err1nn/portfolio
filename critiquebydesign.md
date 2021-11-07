@@ -37,11 +37,11 @@ I shared the wireframe with two of my friends and ask for their feedback with th
 Their responses are as follows.
 | Questions | Friend 1 (F1 audience) | Friend 2 (non F1 audience) |
 | -------------  | ------------- | ------------- |
-| Can you tell me what you think this is?              | ...             | ...                                               |
-| Can you describe to me what this is telling you?     | ...             | ...                                |
-| Is there anything you find surprising or confusing?  | ...             | ...                              |
-| Who do you think is the intended audience for this?  | ...            | ...                        |
-| Is there anything you would change or do differently? | ...             | ...  |
+| Can you tell me what you think this is?              | text             | text                                               |
+| Can you describe to me what this is telling you?     | text             | text                                |
+| Is there anything you find surprising or confusing?  | text             | text                              |
+| Who do you think is the intended audience for this?  | text            | text                        |
+| Is there anything you would change or do differently? | text             | text  |
 
 #### Reflection
 
