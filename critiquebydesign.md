@@ -1,10 +1,10 @@
-In this assignment, I utilized the knowledge I learned from [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9): chose a public data visualization, critiqued the visualization, wireframed a solution using Balsamiq, conducted user innterviews for testing the solution, and built the final solution using Tableau.
+In this assignment, I utilized the knowledge I learned from [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9): chose a public data visualization, critiqued the visualization, wireframed a solution using Balsamiq, conducted user innterviews to test the solution, and built the final solution using Flourish.
 
 ## Step 1 - Find a Data Visualization
-I selected two data visualizations that exemplify the highest paid occupations in the United States. The data used in the visualization are collected from U.S. Bureau of Labor Statistics.
+I selected the Formula 1 United States Grand Prix 2021 Race Lap Chart that exemplify the positions of each driver on every lap.
 
 ![Data Visualization](https://www.racefans.net/wp-content/uploads/2021/10/7b133dbe-98d7-45bc-9d72-7060038405ab.png)
-Images sourced from:
+Images sourced from: [2021 United States Grand Prix interactive data: lap charts, times and tyres](https://www.racefans.net/2021/10/25/2021-united-states-grand-prix-interactive-data-lap-charts-times-and-tyres/)
 
 
 ## Step 2 - Critique the Data Visualization
