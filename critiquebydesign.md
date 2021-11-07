@@ -9,7 +9,7 @@ Image sourced from: [2021 United States Grand Prix interactive data: lap charts,
 ## Step 2 - Critique the Data Visualization
 I critiqued the data visualization using the criteria introduced in [Data Visualization Effectivenness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) by Stephen Few.
 
-| Criteria       | Score         | Description                                                           |
+| Criteria       | Score         | Scale (0 to 10)                                                       |
 | -------------  | ------------- | --------------------------------------------------------------------- |
 | Usefulness     | 7             | Useless vs. Very useful                                               |
 | Completeness   | 7             | No relevant data vs. All relevant data                                |
