@@ -17,7 +17,7 @@ I critiqued the data visualization using the criteria introduced in [Data Visual
 | Truthfulness   | 10            | Innaccurate and invalid vs. Accurate and valid                        |
 | Intuitiveness  | 4             | Unfamiliar; difficult to understand vs. Familiar; easy to understand  |
 | Aesthetics     | 3             | Ugly vs. Pleasing to the eye                                          |
-| Engagement     | 8             | Distracts from data vs. Draws one into the data                       |
+| Engagement     | 8             | Distracts from data vs. Draws one into the dataDistracts from data vs. Draws one into the data Distracts from data vs. Draws one into the data Distracts from data vs. Draws one into the data                        |
 
 
 The visualization exemplifies the positions of each driver on every lap in the United States Grand Prix 2021. The information is presented in the line chart, which is a nice approach to track changes over a period of time. Sadly, though the information is useful and complete, the color scheme and labels for the x- and y-axis made the comparison unnecessarily difficult. In particular, the laps across the x-axis could have been in uniform increments to reduce clutter. Additionally, the rank on the y-axis is confusing since it goes from 20 to 1, meaning the driver increasing on the y-axis is decreasing in the rank. This is counterintuitive as most audiences would assume the line at the top is ranked first place.
@@ -33,11 +33,11 @@ The primary audience would be the fans and sports analysts, who have background 
 
 ## Step 4 - Test the Solution
 I shared the wireframe with two of my friends and ask for their feedback with the following questions.
-*- Can you tell me what you think this is?
-*- Can you describe to me what this is telling you?
-*- Is there anything you find surprising or confusing?
-*- Who do you think is the intended audience for this?
-*- Is there anything you would change or do differently?
+*- Can you tell me what you think this is?*
+*- Can you describe to me what this is telling you?*
+*- Is there anything you find surprising or confusing?*
+*- Who do you think is the intended audience for this?*
+*- Is there anything you would change or do differently?*
 
 
 ## Step 5 - Build the Solution
