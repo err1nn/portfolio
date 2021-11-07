@@ -29,9 +29,15 @@ The primary audience would be the fans and sports analysts, who have background 
 
 
 ## Step 3 - Wireframe the Visualization
-
+ 
 
 ## Step 4 - Test the Solution
+I shared the wireframe with two of my friends and ask for their feedback with the following questions.
+*- Can you tell me what you think this is?
+*- Can you describe to me what this is telling you?
+*- Is there anything you find surprising or confusing?
+*- Who do you think is the intended audience for this?
+*- Is there anything you would change or do differently?
 
 
 ## Step 5 - Build the Solution
