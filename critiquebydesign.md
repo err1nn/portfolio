@@ -32,7 +32,9 @@ The primary audience would be the fans and sports analysts, who have background 
  
 
 ## Step 4 - Test the Solution
-I shared the wireframe with two of my friends and ask for their feedback with the following questions.
+I shared the wireframe with two of my friends and ask for their feedback with the following questions. One of them is F1 audience while the other is not; this would allow me to have more balanced insights into the experiences between two different groups.
+
+Their responses are as follows.
 | Questions | Friend 1 (F1 audience) | Friend 2 (non F1 audience) |
 | -------------  | ------------- | ------------- |
 | Can you tell me what you think this is?              | ...             | ...                                               |
@@ -41,7 +43,7 @@ I shared the wireframe with two of my friends and ask for their feedback with th
 | Who do you think is the intended audience for this?  | ...            | ...                        |
 | Is there anything you would change or do differently? | ...             | ...  |
 
-
+# Reflection
 
 
 ## Step 5 - Build the Solution
