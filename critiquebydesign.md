@@ -3,12 +3,9 @@ In this assignment, I utilized the knowledge I learned from [Design and Redesign
 ## Step 1 - Find a Data Visualization
 I selected two data visualizations that exemplify the highest paid occupations in the United States. The data used in the visualization are collected from U.S. Bureau of Labor Statistics.
 
-![Data Visualization 1](https://cdn.howmuch.net/articles/final_BEST-4a82-d8af.png)
-![Data Visualization 2](https://cdn.howmuch.net/articles/topjob-2412.jpg)
-
+![Data Visualization](https://www.racefans.net/wp-content/uploads/2021/10/7b133dbe-98d7-45bc-9d72-7060038405ab.png)
 Images sourced from:
-1. Charted: America's Top Paying Jobs, https://howmuch.net/articles/americas-highest-paid-jobs-2019
-2. Visualizing the Highest Paying Jobs in America, https://howmuch.net/articles/the-highest-paid-job-in-every-state
+
 
 ## Step 2 - Critique the Data Visualization
 
