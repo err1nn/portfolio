@@ -1,7 +1,7 @@
 In this assignment, I utilized the knowledge I learned from [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9): chose a public data visualization, critiqued the visualization, wireframed a solution using Balsamiq, conducted user innterviews to test the solution, and built the final solution using Flourish.
 
 ## Step 1 - Find a Data Visualization
-I selected the Formula 1 United States Grand Prix 2021 Race Lap Chart.
+I selected the Formula 1 United States Grand Prix 2021 Race Lap Chart. I've been obssessed with F1 races since I watched the F1 documentaty series titled [Formula 1: Driving to Survive](https://www.netflix.com/title/80204890) on Netflix. After every race, there will be a tons of data visualization on the social media, summing up the race highlights and the updated ranking. For this assignment, I wanted to express the data in an engaging way that is friendly to those who have been watching the sport and those who are new to the sport.
 
 ![Formula 1 United States Grand Prix 2021 Race Lap Chart](https://www.racefans.net/wp-content/uploads/2021/10/7b133dbe-98d7-45bc-9d72-7060038405ab.png)
 Image sourced from: [2021 United States Grand Prix interactive data: lap charts, times and tyres](https://www.racefans.net/2021/10/25/2021-united-states-grand-prix-interactive-data-lap-charts-times-and-tyres/)
@@ -43,8 +43,11 @@ Their responses are as follows.
 | Who do you think is the intended audience for this?  | ...            | ...                        |
 | Is there anything you would change or do differently? | ...             | ...  |
 
-# Reflection
+#### Reflection
 
 
 ## Step 5 - Build the Solution
+I redesigned the visualization into an animated line chart to show the changing rank over the race.
+
+
 
