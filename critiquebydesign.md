@@ -29,7 +29,7 @@ The primary audience would be the fans and sports analysts, who have background 
 
 
 ## Step 3 - Wireframe the Visualization
- 
+![Wireframe](critiquebydesign_wireframe.png)
 
 ## Step 4 - Test the Solution
 I shared the wireframe with two of my friends and ask for their feedback with the following questions. One of them is F1 audience while the other is not; this would allow me to have more balanced insights into the experiences between two different groups.
