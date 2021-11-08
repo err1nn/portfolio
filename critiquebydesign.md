@@ -22,26 +22,28 @@ I critiqued the data visualization using the criteria introduced in [Data Visual
 
 The visualization exemplifies the positions of each driver on every lap in the United States Grand Prix 2021. The information is presented in the line chart, which is a nice approach to track changes over a period of time. Sadly, though the information is useful and complete, the color scheme and labels for the x- and y-axis made the comparison unnecessarily difficult. In particular, the laps across the x-axis could have been in uniform increments to reduce clutter. Additionally, the rank on the y-axis is confusing since it goes from 20 to 1, meaning the driver increasing on the y-axis is decreasing in the rank. This is counterintuitive as most audiences would assume the line at the top is ranked first place.
 
-The primary audience would be the fans and sports analysts, who have background knowledge about Formula 1 (e.g., drivers and teams). Therefore, I think the visualization is effective for reaching these audiences. However, there is still room for improvement. If I were to redesign the visualization, I would have the following changes:
+The primary audience would be the fans and sports analysts, who have background knowledge about Formula 1 (e.g., drivers and teams). Therefore, I think the visualization is effective for reaching these audiences. However, there is still room for improvement. If I were to redesign the visualization, I would do the following changes:
 - Change the color scheme. Note that there are 10 teams in Formula 1 and every team has 2 drivers. To make each variable discrete but not overwhelming, I would group the drivers by teams for the audience to relate more easily.
-- Adjust the lables on x- and y-axis. I would reverse the values on y-axis and have the x-axis in uniform increment to make the chart clearer and more understandable. 
+- Adjust the lables on x- and y-axis. I would reverse the values on y-axis and place the x-axis labels in uniform increment to make the chart clearer and more readible. 
 - Add a subtitle. I would add a sentence or two for the highlights of the race that can potentially draw more viewers.
 
 
 ## Step 3 - Wireframe the Visualization
+I chose to wireframe out the solution on the tablet. The first idea that came to mind was to make this visualization animated, but I realized this was difficult to present in just a picture. I ended up only adding a note between the two charts indicating the visualization will be in an animated formate, and the lines will move forward over time.
 ![Wireframe](critiquebydesign_wireframe.png)
+
 
 ## Step 4 - Test the Solution
 I shared the wireframe with two of my friends and ask for their feedback with the following questions. One of them is F1 audience while the other is not; this would allow me to have more balanced insights into the experiences between two different groups.
 
-Their responses are as follows.
-| Questions | Friend 1 (F1 audience) | Friend 2 (non F1 audience) |
-| -------------  | ------------- | ------------- |
-| Can you tell me what you think this is?              | text             | text                                               |
-| Can you describe to me what this is telling you?     | text             | text                                |
-| Is there anything you find surprising or confusing?  | text             | text                              |
-| Who do you think is the intended audience for this?  | text            | text                        |
-| Is there anything you would change or do differently? | text             | text  |
+The questions and responses are as follows.
+| Questions                                             | Friend 1 (F1 audience) | Friend 2 (non F1 audience) |
+| ----------------------------------------------------  | ---------------------  | -------------------------- |
+| Can you tell me what you think this is?               | text                   | text                                               |
+| Can you describe to me what this is telling you?      | text                   | text                                |
+| Is there anything you find surprising or confusing?   | text                   | text                              |
+| Who do you think is the intended audience for this?   | text                   | text                        |
+| Is there anything you would change or do differently? | text                   | text  |
 
 #### Reflection
 
