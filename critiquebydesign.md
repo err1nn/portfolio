@@ -37,13 +37,21 @@ I chose to wireframe out the solution on the tablet. The first idea that came to
 I shared the wireframe with two of my friends and ask for their feedback with the following questions. One of them is F1 audience while the other is not; this would allow me to have more balanced insights into the experiences between two different groups.
 
 The questions and responses are as follows.
-| Questions                                             | Friend 1 (F1 audience) | Friend 2 (non F1 audience) |
-| ----------------------------------------------------  | ---------------------  | -------------------------- |
-| Can you tell me what you think this is?               | text                   | text                                               |
-| Can you describe to me what this is telling you?      | text                   | text                                |
-| Is there anything you find surprising or confusing?   | text                   | text                              |
-| Who do you think is the intended audience for this?   | text                   | text                        |
-| Is there anything you would change or do differently? | text                   | text  |
+- Can you tell me what you think this is? 
+  - Response 1:
+  - Response 2:
+- Can you describe to me what this is telling you?
+  - Response 1:
+  - Response 2:
+- Is there anything you find surprising or confusing?
+  - Response 1:
+  - Response 2:
+- Who do you think is the intended audience for this? 
+  - Response 1:
+  - Response 2:
+- Is there anything you would change or do differently?
+  - Response 1:
+  - Response 2:
 
 #### Reflection
 
