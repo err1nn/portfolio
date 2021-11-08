@@ -59,10 +59,13 @@ The questions and responses are as follows.
   - Response 2: Moving those three with data to the top of the chart.
 
 #### Reflection
+I was assuming what the audience already knows. This is wrong and I should be more cautious when giving the wireframed solution in user testing. I should have drawn out all 20 lines instead of 3.
 
+Another interesting discovery is that Respondent 1 who has the background knowledge can easily relate the visualization to the actual race result. However, Respondent 2 who does not know F1 interprets the data as a survey and the lines as changes in approval ratings. This would help me identify the fact that the intended audience should be F1 fans who have to watch the games for a while and who have just been introduced to the sport. It might not be that appropriate to reach the users who do not know about it.
 
 ## Step 5 - Build the Solution
-I redesigned the visualization into an animated line chart to show the changing rank over the race.
+
+Finally, I combined what learned from the critique, wireframes, and user feedback to create my redesign. I redesigned the visualization into an animated line chart to show the changing rank over the race. I changed the colors that match the drivers to their teams. I added a clear title and a subtitle for more description. Overall, my redesign is informative and engaging.
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7753377"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
