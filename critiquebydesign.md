@@ -65,7 +65,7 @@ Another interesting discovery is that Respondent 1 who has the background knowle
 
 ## Step 5 - Build the Solution
 
-Finally, I combined what learned from the critique, wireframes, and user feedback to create my redesign. I redesigned the visualization into an animated line chart to show the changing rank over the race. I changed the colors that match the drivers to their teams. I added a clear title and a subtitle for more description. Overall, my redesign is informative and engaging.
+Finally, I combined what learned from the critique, wireframes, and user feedback to create my redesign. I redesigned the visualization into an animated line chart to show the changing rank over the race. I changed the colors by matching the drivers with their teams. I added a clear title and subtitle, and made the x- and y-axis intuitive and concise. Overall, my redesign is informative and engaging.
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7753377"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
