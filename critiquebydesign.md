@@ -50,4 +50,3 @@ Their responses are as follows.
 I redesigned the visualization into an animated line chart to show the changing rank over the race.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7753377"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
