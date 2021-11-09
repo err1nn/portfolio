@@ -65,7 +65,6 @@ Another interesting discovery is that Respondent 1 who has the background knowle
 
 ## Step 5 - Build the Solution
 
-Finally, I combined what learned from the critique, wireframes, and user feedback to create my redesign. I redesigned the visualization into an animated line chart to show the changing rank over the race. I changed the colors by matching the drivers with their teams. I added a clear title and subtitle, and made the x- and y-axis intuitive and concise. Overall, my redesign is informative and engaging.
-
+In my final visualization, I combined what I learned from the critique, wireframes, and user feedback to create my redesign. I redesigned the visualization into an animated line chart to show the changing rank over the race. One difference from the wireframes is that I greyed out all the drivers except for Max Verstappen and Lewis Hamilton, who were the top two drivers in this race. I colored their lines by matching with the teams' colors. By highlighting the two drivers, along with the title and subtitle, the audience can focus on the competition between them. Overall, my redesign is informative and engaging as it tells the whole story about the competitive race in one graph.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7753377"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
