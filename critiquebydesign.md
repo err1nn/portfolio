@@ -56,7 +56,7 @@ The questions and responses are as follows.
   - Response 2: Voters.
 - Is there anything you would change or do differently?
   - Response 1: Shorten the subtitle.
-  - Response 2: Moving those three with data to the top of the chart.
+  - Response 2: Move those three with data to the top of the chart.
 
 #### Reflection
 I was assuming what the audience already knows. This is wrong and I should be more cautious when giving the wireframed solution in user testing. I should have drawn out all 20 lines instead of 3.
