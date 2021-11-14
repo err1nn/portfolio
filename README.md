@@ -10,9 +10,7 @@ Her passion for solving problems that live at the nexus of people, policy, and t
 ## What I Hope to Learn
 With the coding ability in buckets, I hope to learn a more design-oriented perspective to data visualization that I can add another level on my work. I look forward to being a data enthusiast who can understand clients' data visualization needs and leverage the design mindset to develop creative, informational visualizations.
 
-## Assignments
+## Selected Projects
 - [Data Visualization: OECD Gerneral Government Debt](https://err1nn.github.io/portfolio/dataviz1)
 - [Critique By Design: F1 United States Grand Prix 2021 Race Lap Chart](https://err1nn.github.io/portfolio/critiquebydesign)
-
-## Final Project
-Here's where my cool visualization work will go. Please keep an eye on it!
+- [Final Project](https://err1nn.github.io/portfolio/finalproject)
