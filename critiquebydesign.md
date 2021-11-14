@@ -1,3 +1,5 @@
+# Critique By Design: 2021 Formula 1 United States Grand Prix
+
 In this assignment, I utilized the knowledge I learned from [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9): chose a public data visualization, critiqued the visualization, wireframed a solution, conducted user innterviews to test the solution, and built the final solution using Flourish.
 
 
