@@ -1,5 +1,5 @@
 # Final Project
-🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
+🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
 
 ## PART I - PROPOSAL
 Being internationally recognized as a leader in LGBT rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70 percent voting against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
@@ -10,12 +10,12 @@ The story will be structured in chronological order, where there are three main 
 
 As a hook to grab the audience's attention from the first sentence, I plan to share a recent headline that Taiwan wins the bid over Washington D.C. to host 2025 World Pride Parade.
 
-**1. LGBT History in Taiwan**<br>
-I plan to start by briefly going through the LGBT history in Taiwan. The timeline can show an overview of the 
+1. LGBT History in Taiwan
+I plan to start by briefly going through the LGBT history in Taiwan. The timeline can serve as an overview of the background knowledge 
 
-**2. Taiwanese Referendum 2018**
+2. Taiwanese Referendum 2018
 
-**3. Same-sex marriage legalization in 2019**
+3. Same-sex marriage legalization in 2019
 
 
 (Disclaimer: The data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
