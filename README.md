@@ -13,4 +13,4 @@ With the coding ability in buckets, I hope to learn a more design-oriented persp
 ## Selected Projects
 - [Data Visualization: OECD Gerneral Government Debt](https://err1nn.github.io/portfolio/dataviz1)
 - [Critique By Design: F1 United States Grand Prix 2021 Race Lap Chart](https://err1nn.github.io/portfolio/critiquebydesign)
-- [Final Project](https://err1nn.github.io/portfolio/finalproject)
+- [Final Project: Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality](https://err1nn.github.io/portfolio/finalproject)
