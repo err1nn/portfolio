@@ -12,7 +12,7 @@ As a hook to grab the audience's attention from the first sentence, I plan to sh
 #### ▍LGBT History in Taiwan
 I plan to start by briefly going through the LGBT history in Taiwan. The concise but informative timeline can serve as the background knowledge of the governmental and civic activities related to LGBTQ rights. I have yet to identified the best approach to present the data, but right now I will put them in a timeline format.
 
-<img width="528" alt="Screen Shot 2021-11-15 at 10 27 46 PM" src="https://user-images.githubusercontent.com/89028282/141890587-3fdfc8df-d895-4c74-9e8b-ba89ec128bc6.png">
+<img width="700" alt="Screen Shot 2021-11-15 at 10 27 46 PM" src="https://user-images.githubusercontent.com/89028282/141890587-3fdfc8df-d895-4c74-9e8b-ba89ec128bc6.png">
 
 #### ▍Taiwanese Referendum 2018
 As the story goes on, the readers will be entering the "lowest ebb" of the story. I will not only show how the anti-LGBT organizations was trying to destory the human rights but show how frustrating the referendum result was. 
