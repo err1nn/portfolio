@@ -10,12 +10,12 @@ The story will be structured in chronological order, where there are three main 
 
 As a hook to grab the audience's attention from the first sentence, I plan to share a recent headline that Taiwan wins the bid over Washington D.C. to host 2025 World Pride Parade.
 
-1. LGBT History in Taiwan
+1. **LGBT History in Taiwan**
 I plan to start by briefly going through the LGBT history in Taiwan. The timeline can serve as an overview of the background knowledge 
 
-2. Taiwanese Referendum 2018
+2. **Taiwanese Referendum 2018**
 
-3. Same-sex marriage legalization in 2019
+3. **Same-sex marriage legalization in 2019**
 
 
 (Disclaimer: The data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
@@ -23,16 +23,16 @@ I plan to start by briefly going through the LGBT history in Taiwan. The timelin
 ### Data Sources
 There are 4 tentative data sources that I will plan to use for visualzations. #1 and #4 are web data; #2 and #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
-1. Timeline of LGBT History in Taiwan (Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan))
+1. Timeline of LGBT History in Taiwan (Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan))<br>
 The data will be used as an overview of the LGBT history in Taiwan, illustrating both governmental and civic activities.
 
-2. LGBT Rights in Taiwan (Source: [EQUALDEX](https://www.equaldex.com/region/taiwan))
+2. LGBT Rights in Taiwan (Source: [EQUALDEX](https://www.equaldex.com/region/taiwan))<br>
 The data will be used as a piece of supplementary information of the LGBT history in Taiwan. I plan to use some of the numbers to create infographics that can show the audience more interesting insights.
 
-2. 2018 Referendum Results (Source: [Central Election Commision in Taiwan](https://data.gov.tw/en/datasets/all))
+3. 2018 Referendum Results (Source: [Central Election Commision in Taiwan](https://data.gov.tw/en/datasets/all))<br>
 The data will be used to show the results that a majority of the voters rejected same-sex marriage and the implementation of LGBT-inclusive education.
 
-3. Taiwan Same-sex Marriage Statistics By City (Source: [Gender Equality Committee of the Excutive Yuan, Taiwan](https://gec.ey.gov.tw/en/))
+4. Taiwan Same-sex Marriage Statistics By City (Source: [Gender Equality Committee of the Excutive Yuan, Taiwan](https://gec.ey.gov.tw/en/))<br>
 The data will be used to show the number of couples getting married on the day of the same-sex marriage legalization in every city in Taiwan.
 
 
