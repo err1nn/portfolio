@@ -9,26 +9,24 @@ The story will be structured in chronological order, where there are three main 
 
 As a hook to grab the audience's attention from the first sentence, I plan to share a recent headline that Taiwan wins the bid over Washington D.C. to host 2025 World Pride Parade, showing the love and equality prevailing in the country.
 
-#### LGBT History in Taiwan
+#### ▍LGBT History in Taiwan
 I plan to start by briefly going through the LGBT history in Taiwan. The concise but informative timeline can serve as the background knowledge of the governmental and civic activities related to LGBTQ rights. I have yet to identified the best approach to present the data, but right now I will put them in a timeline format.
 
 <img width="528" alt="Screen Shot 2021-11-15 at 10 27 46 PM" src="https://user-images.githubusercontent.com/89028282/141890587-3fdfc8df-d895-4c74-9e8b-ba89ec128bc6.png">
 
-#### Taiwanese Referendum 2018
+#### ▍Taiwanese Referendum 2018
 As the story goes on, the readers will be entering the "lowest ebb" of the story. I will not only show how the anti-LGBT organizations was trying to destory the human rights but show how frustrating the referendum result was. 
 
 I plan to develop a Tableau dashboard that the audience can have interative experience when reviewing the referendum result. The dashboard would be composed of an arc chart showing the composition of the voting result, and a choropleth graph showing the percentage of "Yes" votes by city in Taiwan.
 
 <img width="555" alt="Screen Shot 2021-11-15 at 10 28 17 PM" src="https://user-images.githubusercontent.com/89028282/141890625-c9704f89-a29a-4e7e-b1a8-a837b8a6f6cf.png">
 
+#### ▍Same-sex marriage legalization in 2019
+Finally, the story will end with a happy news, the same-sex marriage legalization in Taiwan. Aside from the narrative story, I will also use a gridplot to highlight that Taiwan is the first in Asia that legalizes same-sex marriage.
 
-#### Same-sex marriage legalization in 2019
-Finally, the story will end with a happy news, the same-sex marriage legalization in Taiwan.
+<img width="258" alt="Screen Shot 2021-11-15 at 10 43 04 PM" src="https://user-images.githubusercontent.com/89028282/141891949-3e80c5aa-8a2d-47ed-8e8c-3766cd885384.png">
 
-
-
-
-(Disclaimer: The data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
+(Disclaimer: All data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
 
 I hope to share the joy and freedom in Taiwan with the readers, and inform the readers that it has been a long journey for Taiwan to achieve the equality. Even if you haven't seen the green light on LGBTQ rights in your country, never give up on advocating for the gender equity.
 
