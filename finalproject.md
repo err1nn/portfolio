@@ -33,7 +33,7 @@ I hope to share the joy and freedom in Taiwan with the readers, and inform the r
 
 
 ### Data Sources
-There are 4 tentative data sources that I will plan to use for visualizations. #1 and #2 are web data; #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
+There are 4 tentative data sources that I will plan to use for visualizations. #1, #2 and #4 are web data; #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
 1. **Timeline of LGBT History in Taiwan** (_Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan)_)<br>
 The data will be used as an overview of the LGBT history in Taiwan, illustrating both governmental and civic activities.
