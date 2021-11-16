@@ -26,9 +26,11 @@ Finally, the story will end with a happy news, the same-sex marriage legalizatio
 
 <img width="258" alt="Screen Shot 2021-11-15 at 10 43 04 PM" src="https://user-images.githubusercontent.com/89028282/141891949-3e80c5aa-8a2d-47ed-8e8c-3766cd885384.png">
 
-(Disclaimer: All data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
-
 I hope to share the joy and freedom in Taiwan with the readers, and inform the readers that it has been a long journey for Taiwan to achieve the equality. Even if you haven't seen the green light on LGBTQ rights in your country, never give up on advocating for the gender equity.
+
+
+_(Disclaimer: All data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
+_
 
 ### Data Sources
 There are 4 tentative data sources that I will plan to use for visualzations. #1 and #2 are web data; #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
@@ -47,5 +49,6 @@ The data will be used to highlight that Taiwan is the first and only country tha
 
 
 ### Method and Medium
-The final deliverable will be presented using **Shorthand**, a digital storytelling platform. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best. 
+As a next step after the initial proposal, I plan to develop wireframes and storyboards using **Balsamiq**. I will also conduct a series of **user interviews** to collect iterative feedback for both wireframes and the future visualizations.
 
+The final deliverable will be presented using **Shorthand**, a digital storytelling platform. I plan to tell the story using narration along with the supporting data visualizations. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best. 
