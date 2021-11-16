@@ -2,7 +2,7 @@
 🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
 
 ## PART I - PROPOSAL
-Being internationally recognized as a leader in LGBT rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70 percent voting against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
+Being internationally recognized as a leader in LGBT rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70% voting against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
 
 ### Project Outline
 #### Story Structure
@@ -24,12 +24,17 @@ I plan to start by briefly going through the LGBT history in Taiwan. The timelin
 There are 4 tentative data sources that I will plan to use for visualzations. #1 and #4 are web data; #2 and #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
 1. Timeline of LGBT History in Taiwan (Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan))
+The data will be used as an overview of the LGBT history in Taiwan, illustrating both governmental and civic activities.
+
+2. LGBT Rights in Taiwan (Source: [EQUALDEX](https://www.equaldex.com/region/taiwan))
+The data will be used as a piece of supplementary information of the LGBT history in Taiwan. I plan to use some of the numbers to create infographics that can show the audience more interesting insights.
 
 2. 2018 Referendum Results (Source: [Central Election Commision in Taiwan](https://data.gov.tw/en/datasets/all))
+The data will be used to show the results that a majority of the voters rejected same-sex marriage and the implementation of LGBT-inclusive education.
 
 3. Taiwan Same-sex Marriage Statistics By City (Source: [Gender Equality Committee of the Excutive Yuan, Taiwan](https://gec.ey.gov.tw/en/))
+The data will be used to show the number of couples getting married on the day of the same-sex marriage legalization in every city in Taiwan.
 
-4. LGBT Rights inn Taiwan (Source: [EQUALDEX](https://www.equaldex.com/region/taiwan))
 
 ### Method and Medium
 The final deliverable will be presented using Shorthand, a digital storytelling platform. All data visualizations will be created using Tableau, Flourish, or PlotDB, whichever fits the best. 
