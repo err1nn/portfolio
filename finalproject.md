@@ -8,11 +8,11 @@ Being internationally recognized as a leader in LGBT rights, Taiwan is the first
 #### Story Structure
 The story will be structured in chronological order, where there are three main components: (1) LGBT History in Taiwan, (2) Taiwanese Referendum 2018, and (3) Same-sex marriage legalization in 2019.
 
-##### 🏳️‍🌈 LGBT History in Taiwan
+##### 🏳️‍🌈  LGBT History in Taiwan
 
-##### 🏳️‍🌈 Taiwanese Referendum 2018
+##### 🏳️‍🌈  Taiwanese Referendum 2018
 
-##### 🏳️‍🌈 Same-sex marriage legalization in 2019
+##### 🏳️‍🌈  Same-sex marriage legalization in 2019
 
 In a recent headline, Taiwan has been chosen to host World Pride Parade in 2025.
 
