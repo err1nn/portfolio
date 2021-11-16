@@ -10,7 +10,7 @@ The story will be structured in chronological order, where there are three main 
 
 As a hook to grab the audience's attention from the first sentence, I plan to share a recent headline that Taiwan wins the bid over Washington D.C. to host 2025 World Pride Parade.
 
-**1. LGBT History in Taiwan**
+**1. LGBT History in Taiwan**<br>
 I plan to start by briefly going through the LGBT history in Taiwan. The timeline can show an overview of the 
 
 **2. Taiwanese Referendum 2018**
