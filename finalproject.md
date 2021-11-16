@@ -1,4 +1,4 @@
-# Final Project
+# Final Project: Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality
 🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
 
 ## PART I - PROPOSAL
