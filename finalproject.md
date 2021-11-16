@@ -23,16 +23,16 @@ I plan to start by briefly going through the LGBT history in Taiwan. The timelin
 ### Data Sources
 There are 4 tentative data sources that I will plan to use for visualzations. #1 and #4 are web data; #2 and #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
-1. Timeline of LGBT History in Taiwan (Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan))<br>
+1. **Timeline of LGBT History in Taiwan** (_Source: [Wikiwand]_(https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan))<br>
 The data will be used as an overview of the LGBT history in Taiwan, illustrating both governmental and civic activities.
 
-2. LGBT Rights in Taiwan (Source: [EQUALDEX](https://www.equaldex.com/region/taiwan))<br>
+2. **LGBT Rights in Taiwan** (_Source: [EQUALDEX]_(https://www.equaldex.com/region/taiwan))<br>
 The data will be used as a piece of supplementary information of the LGBT history in Taiwan. I plan to use some of the numbers to create infographics that can show the audience more interesting insights.
 
-3. 2018 Referendum Results (Source: [Central Election Commision in Taiwan](https://data.gov.tw/en/datasets/all))<br>
+3. **2018 Referendum Results** (_Source: [Central Election Commision in Taiwan]_(https://data.gov.tw/en/datasets/all))<br>
 The data will be used to show the results that a majority of the voters rejected same-sex marriage and the implementation of LGBT-inclusive education.
 
-4. Taiwan Same-sex Marriage Statistics By City (Source: [Gender Equality Committee of the Excutive Yuan, Taiwan](https://gec.ey.gov.tw/en/))<br>
+4. **Taiwan Same-sex Marriage Statistics By City** (_Source: [Gender Equality Committee of the Excutive Yuan, Taiwan]_(https://gec.ey.gov.tw/en/))<br>
 The data will be used to show the number of couples getting married on the day of the same-sex marriage legalization in every city in Taiwan.
 
 
