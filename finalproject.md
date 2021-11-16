@@ -21,7 +21,7 @@ I plan to start by briefly going through the LGBT history in Taiwan. The timelin
 (Disclaimer: The data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations.)
 
 ### Data Sources
-There are 4 tentative data sources that I will plan to use for visualzations. #1 and #4 are web data; #2 and #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
+There are 4 tentative data sources that I will plan to use for visualzations. #1 and #2 are web data; #3 and #4 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
 1. **Timeline of LGBT History in Taiwan** (_Source: [Wikiwand](https://www.wikiwand.com/en/LGBT_history_in_Taiwan#/Timeline_of_LGBT_history_in_the_Republic_Of_China_/_Taiwan)_)<br>
 The data will be used as an overview of the LGBT history in Taiwan, illustrating both governmental and civic activities.
@@ -37,6 +37,6 @@ The data will be used to show the number of couples getting married on the day o
 
 
 ### Method and Medium
-The final deliverable will be presented using Shorthand, a digital storytelling platform. All data visualizations will be created using Tableau, Flourish, or PlotDB, whichever fits the best. 
+The final deliverable will be presented using **Shorthand**, a digital storytelling platform. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best. 
 
 The project intends to use data visualizations to inform the readers the warm story: Taiwan's journey to same-sex marriage. As already noted above, I plan to start the project with a hook that Taiwan is to host 2025 World Pride, showing the love and equality prevailing in the country. The readers will then be showcased a concise but informative timeline of the LGBT history in Taiwan. I have yet to identified the best approach to present the data. As the story goes on, the readers will be entering the "lowest ebb" of the story. I will not only show how the anti-LGBT organizations was trying to destory the human rights but show how frustrating the referendum result was. Finally, the story will end with a happy news, the same-sex marriage legalization in Taiwan.
