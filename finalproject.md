@@ -4,7 +4,6 @@
 ## PART I - PROPOSAL
 Being internationally recognized as a leader in LGBT rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70% voted against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
 
-
 ### Project Outline
 The story will be structured in chronological order, where there are three main components: (1) LGBT History in Taiwan, (2) Taiwanese Referendum 2018, and (3) Same-sex marriage legalization in 2019.
 
@@ -31,7 +30,6 @@ I hope to share the joy and freedom in Taiwan with the readers, and inform the r
 
 (_Disclaimer: All data shown in the sketches is not accucurate as they are only the preliminary sketches used to show the concepts for the future visualizations._)
 
-
 ### Data Sources
 There are 4 tentative data sources that I will plan to use for visualizations. #1, #2 and #4 are web data; #3 can be found at the [Google Drive](https://drive.google.com/drive/folders/1HOwIGbMwNg8rr7Q6aCOx4kcbOdWwUrnT?usp=sharing).
 
@@ -47,8 +45,34 @@ The data will be used to show the results that a majority of the voters rejected
 4. **Countries where Same-Sex Marriage is Legal** (_Source: [Good Morning America](https://www.goodmorningamerica.com/culture/story/29-countries-sex-marriage-officially-legal-56041136)_)<br>
 The data will be used to highlight that Taiwan is the first and only country that legalizes same-sex marriage in Asia.
 
-
 ### Method and Medium
 As a next step after the initial proposal, I plan to develop wireframes and storyboards using **Balsamiq**. I will also conduct a series of **user interviews** to collect iterative feedback for both wireframes and future visualizations.
 
 The final deliverable will be presented using **Shorthand**, a digital storytelling platform. I plan to tell the story using narration along with the supporting data visualizations. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best.
+
+***
+
+## PART II - WIREFRAMES, STORYBOARDS AND USER RESEARCH
+In part II of my final project, I continued constructuring and refining the narrative that will take the reader on the journey through my story. Built on the initial proposal, I developed the wireframes and storyboards, and conducted user interviews with three potential target individuals of my story.
+
+### Storyboards with Wireframes
+
+### User Research Protocal
+
+#### ▍Target audience
+
+#### ▍Approach to Identify Represenntative Individuals
+
+#### ▍Interview Script
+
+### User Interviews and Findings
+
+The direct quotes from the interviews are documented in the table below.
+
+Questions|Interviewee 1|Interviewee 2|Interviewee 3
+---|---|---|---
+Question 1|Response 1|Response 2|Response 3
+Question 2|Response 1|Response 2|Response 3
+Question 3|Response 1|Response 2|Response 3
+Question 4|Response 1|Response 2|Response 3
+
