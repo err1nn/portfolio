@@ -76,3 +76,7 @@ Question 2|Response 1|Response 2|Response 3
 Question 3|Response 1|Response 2|Response 3
 Question 4|Response 1|Response 2|Response 3
 
+#### ▍Changes Based on User Feedback
+I plan to make the following changes in response to the interview findings.
+- Change 1
+- Change 2
