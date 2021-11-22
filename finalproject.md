@@ -46,7 +46,7 @@ The data will be used to show the results that a majority of the voters rejected
 The data will be used to highlight that Taiwan is the first and only country that legalizes same-sex marriage in Asia.
 
 ### Method and Medium
-As a next step after the initial proposal, I plan to develop wireframes and storyboards using **Balsamiq**. I will also conduct a series of **user interviews** to collect iterative feedback for both wireframes and future visualizations.
+As a next step after the initial proposal, I plan to develop wireframes and storyboards. I will also conduct a series of **user interviews** to collect iterative feedback for both wireframes and future visualizations.
 
 The final deliverable will be presented using **Shorthand**, a digital storytelling platform. I plan to tell the story using narration along with the supporting data visualizations. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best.
 
