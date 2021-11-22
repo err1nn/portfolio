@@ -78,10 +78,12 @@ The direct quotes from the interviews are documented in the table below.
 
 Questions|Interviewee 1|Interviewee 2|Interviewee 3
 ---|---|---|---
-Question 1|Response 1|Response 2|Response 3
-Question 2|Response 1|Response 2|Response 3
-Question 3|Response 1|Response 2|Response 3
-Question 4|Response 1|Response 2|Response 3
+Are you aware of the topic before you read the story? Do you find anything new to you from the story?|Response 1|Response 2|Response 3
+What do you think the purpose of the story is? What is the main idea to convey?|Response 1|Response 2|Response 3
+Do you feel the story is clear in terms of the order of the contents? If not, what makes you feel condused with?|Response 1|Response 2|Response 3
+Do the visualizations make sense to you? Do you feel they are aligned with the storyline?|Response 1|Response 2|Response 3
+Is there anything missing but you expected to see in the story?|Response 1|Response 2|Response 3
+Is there anything you want to change?|Response 1|Response 2|Response 3
 
 #### ▍Changes Based on User Feedback
 I plan to make the following changes in response to the interview findings.
