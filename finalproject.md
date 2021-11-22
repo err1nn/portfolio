@@ -50,9 +50,7 @@ As a next step after the initial proposal, I plan to develop wireframes and stor
 
 The final deliverable will be presented using **Shorthand**, a digital storytelling platform. I plan to tell the story using narration along with the supporting data visualizations. All data visualizations will be created using **Tableau**, **Flourish**, or **PlotDB**, whichever fits the best.
 
-<br>
 ***
-<br>
 
 ## PART II - WIREFRAMES, STORYBOARDS AND USER RESEARCH
 In part II of my final project, I continued constructing and refining the narrative that will take the reader on the journey through my story. Built on the initial proposal, I developed the wireframes and storyboards and conducted user interviews with three potential target individuals of my story.
