@@ -65,7 +65,7 @@ The target audience for my story is the LGBTQ community, their friends and famil
 #### ▍Approach to Identify Represenntative Individuals
 Luckily, I graduated from a university where LGBTQ is widely accepted. I've made a few good friends who are LGBTQ themselves, or have a friend or family member who is LGBTQ. I interviewed three of them:
 1. A bisexual who is studying in law school now; female, mid-20s
-2. A LGBTQ supporter who is studying in policy school in the US now; female, mid-20s
+2. A LGBTQ supporter who is studying in policy school now; female, mid-20s
 3. A PhD student who has a close gay friend; male, mid-20s
 
 I hope to learn from the interviews to find out what interests them to read and what does not, and if the story is logically and clearly presented. I also want to obtain feedback on if there's any information they expect to see in the story but I failed to include. Based on the questions listed below, I will make changes to imporve my story and data visualizations.
