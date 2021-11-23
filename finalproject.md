@@ -82,7 +82,7 @@ I hope to learn from the interviews to find out what interests them to read and 
 
 The interview questions and direct quotes from the interviews are documented in the table below.
 
-Questions|Interviewee 1|Interviewee 2|Interviewee 3
+Questions|Bisexual|LGBTQ Supporter|Individual with a close LGBTQ friend
 ---|---|---|---
 Are you aware of the topic before you read the story? Do you find anything new to you from the story?|Yes. __The approval rate by district and demographics__ is new to me.|Yes. __The influence of Taiwan's same-sex marriage legalization on other countries in Asia__ would be new to me.|Yes. __World Pride 2025__ and the __demographics scatter plots__ are new to me.
 What do you think the purpose of the story is?|To show the __progress of LGBTQ rights in Taiwan__, and try to influence other countries/encourage LGBTQ individuals in other countries.|To __show support for LGBTQ community__, making them feel comfortable with being themselves.|To __advertise Taiwan is hosting World Pride 2025__
