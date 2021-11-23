@@ -56,6 +56,14 @@ The final deliverable will be presented using **Shorthand**, a digital storytell
 In part II of my final project, I continued constructing and refining the narrative that will take the reader on the journey through my story. Built on the initial proposal, I developed the wireframes and storyboards and conducted user interviews with three potential target individuals of my story.
 
 ### Storyboards with Wireframes
+I divided the story into the following five parts:
+1. Hook: Taiwan to host 2025 World Pride
+2. LGBTQ History in Taiwan
+3. Taiwanese Referendum 2018
+4. Same-sex marriage legalization in 2019 and its influence on LGBTQ rights in Asia
+5. Call to action: Be your self whenever you're ready
+
+The storyboards with wireframes of visualizations can be found here!
 
 ### User Research Protocal
 
