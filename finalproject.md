@@ -63,10 +63,7 @@ I divided the story into the following five parts:
 4. Same-sex marriage legalization in 2019 and its influence on LGBTQ rights in Asia
 5. Call to action: Be yourself whenever you're ready
 
-![1](https://user-images.githubusercontent.com/89028282/142965177-03005883-3a92-40c4-bf21-dce72c1b1376.jpg)
-![2](https://user-images.githubusercontent.com/89028282/142965191-3db1ab8c-e935-4118-8f9f-4d077890f308.jpg)
-![3](https://user-images.githubusercontent.com/89028282/142965195-2771e96a-709b-4f22-b77c-ad61b1da2a87.jpg)
-![4](https://user-images.githubusercontent.com/89028282/142965200-acb08ffe-b60e-4535-8e1a-0633a048685b.jpg)
+The storyboards I used for user research can be found [here](https://drive.google.com/file/d/1KiWlYqv5HKvaCmZnrekHWWe4TNcTmZMo/view?usp=sharing).
 
 ### User Research Protocal
 
