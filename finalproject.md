@@ -81,8 +81,6 @@ Luckily, I graduated from a university where LGBTQ is widely accepted. I've made
 
 I hope to learn from the interviews to find out what interests them to read and what does not, and if the story is logically and clearly presented. I also want to obtain feedback on if there's any information they expect to see in the story but I failed to include. Based on the questions listed below, I will make changes to imporve my story and data visualizations.
 
-#### ▍Interview Script
-
 ### User Interviews and Findings
 
 The direct quotes from the interviews are documented in the table below.
