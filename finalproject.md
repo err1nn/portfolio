@@ -1,7 +1,8 @@
-# Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality
+# Final Project Proposal
+#### Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality
 🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
 
-## PART I - PROPOSAL
+## PART I - THE IDEA
 Being internationally recognized as a leader in LGBTQ rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70% voted against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
 
 ### Project Outline
@@ -39,7 +40,7 @@ The data will be used as an overview of the LGBTQ history in Taiwan, illustratin
 2. **LGBTQ Rights in Taiwan** (_Source: [EQUALDEX](https://www.equaldex.com/region/taiwan)_)<br>
 The data will be used as a piece of supplementary information on the LGBTQ history in Taiwan. I plan to use some of the numbers to create infographics that can show the audience more interesting insights.
 
-3. **2018 Referendum Results** (_Source: [Central Election Commision in Taiwan](https://data.gov.tw/en/datasets/all)_)<br>
+3. **2018 Referendum Results** (_Source: [rfrd-tw.github.io](https://github.com/rfrd-tw/rfrd-tw.github.io)_)<br>
 The data will be used to show the results that a majority of the voters rejected same-sex marriage and the implementation of LGBTQ-inclusive education.
 
 4. **Countries where Same-Sex Marriage is Legal** (_Source: [Good Morning America](https://www.goodmorningamerica.com/culture/story/29-countries-sex-marriage-officially-legal-56041136)_)<br>
@@ -52,7 +53,7 @@ The final deliverable will be presented using **Shorthand**, a digital storytell
 
 ***
 
-## PART II - WIREFRAMES, STORYBOARDS AND USER RESEARCH
+## PART II - DESIGN AND USER RESEARCH
 In part II of my final project, I continued constructing and refining the narrative that will take the reader on the journey through my story. Built on the initial proposal, I developed the wireframes and storyboards and conducted user interviews with three potential target individuals of my story.
 
 ### Storyboards with Wireframes
@@ -98,3 +99,24 @@ I plan to make the following changes in response to the interview findings.
 - I will add deeper discussions on the NGO and NPO advocation for LGBTQ rights. I will also explain why Same-sex marriage can still be legalized while the referendum was vetoed.
 - I will do more research on the LGBTQ history timeline to add more detail that might interest the readers.
 - I will develop all the data visualization with a consistent color scheme.
+
+***
+
+## PART III - FINAL DATA STORY
+
+In part III of my final project, I completed all the final deliverables including this final documentation on Github, a final data story report on Shorthand, and a presentation given in the Telling Stories with Data class.
+
+### Design Reflection
+
+Before the final presentation, I wanted to reflect on the changes I made in response to my user interviews, the adjustment I made for intended audience, and the design decision I made along the way.
+
+#### ▍Changes to the Visualizations
+
+#### ▍Intended Audience
+
+#### ▍Design Decisions
+
+
+### Final Data Story
+
+Click here to see the final data story on Shorthand!
