@@ -119,4 +119,4 @@ Before the final presentation, I wanted to reflect on the changes I made in resp
 
 ### Final Data Story
 
-Click here to see the final data story on Shorthand!
+[Click here to see the final data story on Shorthand!](https://carnegiemellon.shorthandstories.com/rainbow-flag-in-taiwan/index.html)
