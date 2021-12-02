@@ -16,4 +16,4 @@ With the coding ability in buckets, I hope to learn a more design-oriented persp
 
 ## Final Project
 - [Final Project Proposal: Outline, Wireframes, and User Interviews](https://err1nn.github.io/portfolio/finalproject)
-- Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality (Linked TBD)
+- [Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality](https://carnegiemellon.shorthandstories.com/rainbow-flag-in-taiwan/index.html)
