@@ -134,7 +134,7 @@ On the storytelling side, I made the following changes.
 - **Reflection on the intended audience.** As I prepared for the final presentation, I got a little feedback on the vague call to action. So I tried to think back on who the intended audience is, and what I wanted them to feel or to do after reading my story. My answer is, I don't want them to do any real "physical" actions. Instead, I wish they feel encouraged by Taiwan's story and they'd have a belief that their time will come.
 
 #### ▍Design Decisions
-Overall, I realized how valuable the user feedback is. Everytime I iterated a new version of the project, I received a bunch of feedback that I could have never thought of myself. As an individual who has been working with data visualization for quite a long time, this is, however, my first time doing visualizations from a story teller's view. This can be linked back to what I hope to learn at the very beginning of the class: I hope to learn a more design-oriented perspective to data visualization that I can add another level on my work.
+Overall, I realized how valuable the user feedback is. Everytime I iterated a new version of the project, I received a bunch of feedback that I could have never thought of myself. As an individual who has been working with data visualization for quite a long time, this is, however, my first time doing visualizations from a story teller's view. Surprisingly, this can be linked back to what I hope to learn at the very beginning of the class: I hope to learn a more design-oriented perspective to data visualization that I can add another level on my work.
 
 ### Final Data Story
 
