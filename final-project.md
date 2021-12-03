@@ -108,7 +108,7 @@ Is there anything you want to add, delete, and/or change?|The explanation of __w
 I plan to make the following changes in response to the interview findings.
 - I will make the "hook" section more like a "hook" rather than the main idea to prevent the readers from feeling confused with the topic.
 - I will make the axis labels, ticks, description of the scatter plots clearer.
-- I will add deeper discussions on the NGO and NPO advocation for LGBTQ rights. I will also explain why Same-sex marriage can still be legalized while the referendum was vetoed.
+- I will add deeper discussions to explain why Same-sex marriage can still be legalized while the referendum was vetoed, and how Taiwan's legalization affect other countries in Asia.
 - I will do more research on the LGBTQ history timeline to add more detail that might interest the readers.
 - I will develop all the data visualization with a consistent color scheme.
 
@@ -120,14 +120,21 @@ In part III of my final project, I completed all the final deliverables includin
 
 ### Design Reflection
 
-Before the final presentation, I wanted to reflect on the changes I made in response to my user interviews, the adjustment I made for intended audience, and the design decision I made along the way.
+#### ▍Changes to the Visualizations & Intended Audience
+After receiving feedback from my user research interviewees, the TA, and the instructor, I made a number of changes to the visualization and the story.
 
-#### ▍Changes to the Visualizations
+On the data visualization side, I made the following changes.
+- **Turn timeline graph into plain text.** I shared the wireframes with other friends before I started creating data visualizations, and I got a lot of negative feedback on the timeline graph which I had seen valuable information to learn in the story. According to the users, the timeline was just a wall of texts to them, so why not turn them into plain texts and keep the most interesting/important part. I agreed with them, and I also reflected on what my story should stand for.
+- **Scatter Plots.** I spent a great amount of time cleaning the scatter plots, which are one of the most important highlights of my story. I added the trend lines to further showcase the correlation between the approval of legalization and the demographics data (e.g. age, income, etc)
+- **Consistent color scheme.** I picked two colors - dark and light purple - to incorporate all my visualizations as well as the web page.
 
-#### ▍Intended Audience
+On the storytelling side, I made the following changes.
+- **Sequence of context.** I moved the hook to the end of the story to not make the audience confused with the project topic. I also found this reasonable since it would be difficult to understand the intention if I put a news headline saying "Taiwan is to host World Pride 2025" right after the cover page on the web page.
+- **More research.** I added deeper discussions to explain why Same-sex marriage can still be legalized while the referendum was vetoed, and how Taiwan's legalization affects other countries in Asia.
+- **Reflection on the intended audience.** As I prepared for the final presentation, I got a little feedback on the vague call to action. So I tried to think back on who the intended audience is, and what I wanted them to feel or to do after reading my story. My answer is, I don't want them to do any real "physical" actions. Instead, I wish they feel encouraged by Taiwan's story and they'd have a belief that their time will come.
 
 #### ▍Design Decisions
-
+Overall, 
 
 ### Final Data Story
 
