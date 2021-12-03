@@ -2,6 +2,18 @@
 ### Rainbow Flag in Taiwan: The Journey to Same-Sex Marriage Equality
 🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
 
+On this page, I documented the thorough design and implementation process of my final project.
+
+In Part I, I developed a pitch for the final presentation that included copies to working datasets. I also identified how I intended to tell the story, identifying the method and medium I planned on using. 
+
+In Part II, I started to construct the actual narrative that will take the reader on the journey through the story complemented with sketches, wireframes, storyboards and moodboards. I also completed user research on the idea, and looked for ways to improve the story. 
+
+By the end of Part III, my final deliverable is complete and publicly accessible as a [web page](https://carnegiemellon.shorthandstories.com/rainbow-flag-in-taiwan/index.html).
+
+Withouot further do, let's dive right in!
+
+🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼🇹🇼🏳️‍🌈🇹🇼🏳️‍🌈🇹🇼
+
 ## PART I - THE IDEA
 Being internationally recognized as a leader in LGBTQ rights, Taiwan is the first in Asia to legalize same-sex marriage. However, many may be surprised by the referendum results rejecting marriage equality in 2018, in which around 70% voted against same-sex marriage. The project will be focusing on Taiwan's journey to same-sex marriage equality, and how Taiwanese stood up from the setback and made love and equality prevail.
 
