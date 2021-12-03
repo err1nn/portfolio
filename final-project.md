@@ -124,7 +124,7 @@ In part III of my final project, I completed all the final deliverables includin
 After receiving feedback from my user research interviewees, the TA, and the instructor, I made a number of changes to the visualization and the story.
 
 On the data visualization side, I made the following changes.
-- **Turn timeline graph into plain text.** I shared the wireframes with other friends before I started creating data visualizations, and I got a lot of negative feedback on the timeline graph which I had seen valuable information to learn in the story. According to the users, the timeline was just a wall of texts to them, so why not turn them into plain texts and keep the most interesting/important part. I agreed with them, and I also reflected on what my story should stand for.
+- **Turn timeline graph into plain text.** I shared the wireframes with other friends before I started creating data visualizations, and I got a lot of negative feedback on the timeline graph which I had seen valuable information to learn in the story. According to the users, the timeline was just a wall of texts to them, so why not turn them into plain texts and keep the most interesting/important part. I agreed with them. Furthermore, I reflected on what my story should stand for -- not a wikipedia, but a story with incorporated information.
 - **Scatter Plots.** I spent a great amount of time cleaning the scatter plots, which are one of the most important highlights of my story. I added the trend lines to further showcase the correlation between the approval of legalization and the demographics data (e.g. age, income, etc)
 - **Consistent color scheme.** I picked two colors - dark and light purple - to incorporate all my visualizations as well as the web page.
 
@@ -134,7 +134,7 @@ On the storytelling side, I made the following changes.
 - **Reflection on the intended audience.** As I prepared for the final presentation, I got a little feedback on the vague call to action. So I tried to think back on who the intended audience is, and what I wanted them to feel or to do after reading my story. My answer is, I don't want them to do any real "physical" actions. Instead, I wish they feel encouraged by Taiwan's story and they'd have a belief that their time will come.
 
 #### ▍Design Decisions
-Overall, 
+Overall, I realized how valuable the user feedback is. Everytime I iterated a new version of the project, I received a bunch of feedback that I could have never thought of myself. As an individual who has been working with data visualization for quite a long time, this is, however, my first time doing visualizations from a story teller's view. This can be linked back to what I hope to learn at the very beginning of the class: I hope to learn a more design-oriented perspective to data visualization that I can add another level on my work.
 
 ### Final Data Story
 
