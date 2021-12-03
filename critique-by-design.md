@@ -37,7 +37,7 @@ The primary audience are the fans and sports analysts, who have background knowl
 ## Step 3 - Wireframe the Visualization
 I chose to wireframe out the solution on the tablet. The first idea that came to mind was to make this visualization animated, but I realized this was difficult to present in just a picture. I ended up only adding a note between the two charts indicating the visualization will be in an animated formate, and the lines will move forward over time.
 
-![Wireframe](critiquebydesign_wireframe.png)
+<img width="1234" alt="critiquebydesign_wireframe" src="https://user-images.githubusercontent.com/89028282/144523926-a669df51-2b80-4be3-b3fc-3aed4a9f112f.png">
 
 
 ## Step 4 - Test the Solution
